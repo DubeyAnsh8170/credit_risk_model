@@ -6,6 +6,13 @@ This project builds a Probability of Default (PD) model to assess borrower credi
 ## Objective
 To predict the likelihood of loan default and design a credit scorecard for risk-based decision making.
 
+## Data
+https://drive.google.com/file/d/1lPY8trbTHip6A2yBnpU_t5FDn9xHPhyu/view?usp=sharing
+Dataset can be downloaded here:
+Google Drive Link: https://drive.google.com/file/d/1lPY8trbTHip6A2yBnpU_t5FDn9xHPhyu/view?usp=sharing
+After downloading, place the file in:
+main/data/
+
 ## Techniques Used
 - Logistic Regression
 - Weight of Evidence (WOE)
